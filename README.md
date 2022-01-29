@@ -1,5 +1,5 @@
 # ShootTheBall
-Game using MongoDB and C#
+Game using MongoGame and C#
 
 Instructions
 
